@@ -1,3 +1,3 @@
 # api-python-prices
 
-Consulta preço YahooFinancials
+Search current price YahooFinancials
